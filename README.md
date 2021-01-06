@@ -3,7 +3,7 @@
 负责定时体温&签到打卡+微信消息推送
 
 ## 使用说明
-**在校生使用check_in.py, 走读生使用check_in_2.py
+**在校生使用check_in.py, 走读生使用check_in_2.py**
 
 使用Python 3，使用前确保第三方包requests、selenium已经安装  
 
