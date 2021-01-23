@@ -34,7 +34,7 @@ class clock_in:
         time.sleep(3)
 
         #点击研究生打卡
-        self.browser.find_element_by_xpath('//body/div[8]/a[3]/div[1]').click()
+        self.browser.find_element_by_xpath('//body/div[8]/a[4]/div[1]').click()
         time.sleep(2)
 
         #点击我要办理
